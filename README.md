@@ -1,0 +1,1 @@
+C# implementation of [fastdtw](https://github.com/slaypni/fastdtw), which is an approximate Dynamic Time Warping (DTW) algorithm that provides optimal or near-optimal alignments with an O(N) time and memory complexity.
